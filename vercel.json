@@ -8,9 +8,9 @@
     { "src": "/Shohib", "dest": "/Shohib.js" },
     { "src": "/Fasal", "dest": "/Fasal.js" },
     { "src": "/Kamil", "dest": "/Kamil.js" },
-    { "src": "/Shabeer1", "dest": "/Shabeer1.js" },
-    { "src": "/Shabeer2", "dest": "/Shabeer2.js" },
-    { "src": "/Sanaulah", "dest": "/Sanaulah.js" },
+    { "src": "/Noman", "dest": "/Noman.js" },
+    { "src": "/Zohaib", "dest": "/Zohaib.js" },
+    { "src": "/Haris", "dest": "/Haris.js" },
     { "src": "/faisal", "dest": "/faisal.js" }
   ]
 }
